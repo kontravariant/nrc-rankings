@@ -1,9 +1,13 @@
 body {
 	padding: 20px;
+	background-color: #f6f6ee;
 }
 .select-box { 
     margin: 20px;
 }
 .instructions {
 	line-height: 0.1;
-	}
+}
+th {
+	font-size: 1.0rem;
+}
