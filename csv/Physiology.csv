@@ -1,0 +1,64 @@
+"","X","Institution..program","S.Rank.High","S.Rank.Low","Research.High","Research.Low","Students.High","Students.Low","Diversity.High","Diversity.Low","R.Rank.High","R.Rank.Low"
+"1",0,"Baylor College of Medicine (Molecular Physiology &amp; Biophysics)",5,31,8,40,9,32,3,7,15,46
+"2",1,"Boston U. (Physiology)",48,59,45,60,51,61,5,17,15,55
+"3",2,"Brown U. (BIOMED: Molecular Pharmacology, Physiology, and Biotechnology)",20,48,20,50,11,43,17,38,26,56
+"4",3,"Case Western Reserve U. (Physiology and Biophysics)",8,40,7,42,22,48,49,60,4,32
+"5",4,"Cornell U. (Weill Grad School of Medical Sci - Physiology, Biophysics &amp; Systems Bio)",12,45,3,25,58,63,25,46,3,41
+"6",5,"Cornell U. (Molecular and Integrative Physiology)",33,54,31,55,20,49,4,9,15,47
+"7",6,"Dartmouth College (Physiology)",12,44,8,43,12,34,36,53,9,38
+"8",7,"Georgetown U. (Physiology)",32,56,25,55,47,59,11,29,25,55
+"9",8,"Howard U. (Physiology)",61,62,58,62,49,59,1,1,59,63
+"10",9,"Indiana U.-Purdue U. Indianapolis (Physiology)",34,56,17,53,52,59,50,61,17,52
+"11",10,"Johns Hopkins U. (Cellular and Molecular Physiology)",2,17,3,31,14,43,38,56,5,46
+"12",11,"Johns Hopkins U. (Functional Anatomy and Evolution)",45,60,42,60,8,42,62,62,40,59
+"13",12,"Kansas State U. (Anatomy &amp; Physiology)",8,38,7,42,2,23,25,43,18,49
+"14",13,"Kent State U. Main Campus (Biological Sciences - Physiology)",49,60,50,62,26,54,5,13,54,60
+"15",14,"Loma Linda U. (Physiology)",52,61,32,58,51,61,3,6,59,63
+"16",15,"Loyola U. Chicago (Cell and Molecular Physiology)",3,19,2,20,2,14,14,41,9,53
+"17",16,"Michigan State U. (Physiology)",33,51,50,61,2,20,11,34,34,56
+"18",17,"North Carolina State U. (Physiology)",48,60,50,62,3,30,9,21,39,59
+"19",18,"Oregon Health and Science U. (Physiology and Pharmacology)",19,50,11,44,39,58,23,49,5,47
+"20",19,"Pennsylvania State U. (Physiology)",8,34,9,40,13,39,41,54,2,23
+"21",20,"Rutgers U. at New Brunswick and U. of Medicine and Dentistry of New Jersey at Piscataway (Physiology and Integrative Biology)",13,43,28,56,5,35,13,33,19,56
+"22",21,"Southern Illinois U. at Carbondale (Molecular, Cellular &amp; Systemic Physiology)",52,61,54,62,28,54,8,24,50,61
+"23",22,"State U. of New York at Stony Brook (Physiology and Biophysics)",6,34,7,38,19,47,43,59,6,39
+"24",23,"Temple U. (Physiology)",17,43,24,49,26,52,47,61,10,35
+"25",24,"Texas A&M U. (Veterinary Physiology)",33,53,31,57,8,31,16,38,21,48
+"26",25,"Tufts U. (Cell and Molecular Biology, Other/Cellular and Molecular Physiology)",20,49,8,38,39,55,34,54,15,51
+"27",26,"U. of Alabama at Birmingham (Cellular and Molecular Physiology)",17,48,19,50,9,42,13,34,10,42
+"28",27,"U. of Arizona (Physiological Sciences)",17,49,26,57,6,28,20,41,8,37
+"29",28,"U. of California at Davis (Molecular, Cellular &amp; Integrative Physiology)",19,48,19,49,18,46,19,42,3,27
+"30",29,"U. of California at Los Angeles (Molecular, Cell &amp; Integrative Physiology)",1,7,1,7,28,53,8,19,1,9
+"31",30,"U. of Colorado at Boulder (Integrative Physiology)",4,24,8,38,1,9,29,47,5,29
+"32",31,"U. of Florida (Medical Sciences: Physiology and Pharmacology)",6,26,10,42,2,14,35,56,2,22
+"33",32,"U. of Georgia (Physiology)",48,60,44,61,21,44,13,40,43,58
+"34",33,"U. of Hawaii-Manoa (Physiology)",63,63,63,63,18,47,35,57,60,63
+"35",34,"U. of Illinois at Chicago (Physiology &amp; Biophysics)",16,46,9,44,15,47,45,57,13,48
+"36",35,"U. of Illinois at Urbana-Champaign (Molecular and Integrative Physiology)",5,30,4,28,56,63,13,34,3,41
+"37",36,"U. of Illinois at Urbana-Champaign (Veterinary Biosciences)",10,37,6,34,53,62,2,2,15,57
+"38",37,"U. of Iowa (Integrative Physiology)",39,56,39,59,16,40,63,63,22,54
+"39",38,"U. of Iowa (Molecular Physiology and Biophysics)",7,32,2,18,37,57,48,60,4,38
+"40",39,"U. of Kansas (Molecular and Integrative Physiology)",19,48,11,46,39,54,16,41,14,51
+"41",40,"U. of Kentucky (Physiology)",11,42,6,36,17,47,11,33,11,44
+"42",41,"U. of Louisville (Physiology &amp; Biophysics)",30,56,31,56,4,17,15,39,22,59
+"43",42,"U. of Miami (Physiology and Biophysics)",9,35,25,55,4,22,4,9,10,40
+"44",43,"U. of Michigan at Ann Arbor (Molecular and Integrative Physiology)",2,13,3,23,9,35,11,29,1,12
+"45",44,"U. of Missouri at Columbia (Biomedical Sciences)",18,49,19,49,2,27,28,48,27,52
+"46",45,"U. of Missouri at Columbia (Physiology (Medicine))",12,41,18,47,15,44,13,36,13,48
+"47",46,"U. of North Carolina at Chapel Hill (Cell &amp; Molecular Physiology)",3,21,2,22,15,45,17,41,5,31
+"48",47,"U. of North Carolina at Charlotte (Interdisciplinary Ph.D. in Biology)",10,42,4,34,22,43,12,32,21,50
+"49",48,"U. of North Dakota Main Campus (Pharmacology, Physiology &amp; Therapeutics)",17,46,29,55,1,3,55,61,38,58
+"50",49,"U. of North Texas Health Science Center (Integrative Physiology)",23,51,9,44,10,36,11,30,35,60
+"51",50,"U. of Oregon (Human Physiology)",39,58,16,49,57,63,54,61,17,53
+"52",51,"U. of Southern California (Physiology and Biophysics)",14,44,5,35,59,63,21,44,16,53
+"53",52,"U. of Texas Health Science Center at Houston and U. of Texas M.D. Anderson Cancer Center (Cell and Regulatory Biology)",6,35,4,35,13,43,4,10,7,48
+"54",53,"U. of Utah (Physiology)",56,62,48,61,44,58,49,61,52,61
+"55",54,"U. of Virginia (Physiology)",5,28,11,42,29,55,45,59,4,26
+"56",55,"U. of Washington (Physiology and Biophysics)",12,43,7,39,33,53,41,58,8,40
+"57",56,"U. of Wisconsin at Madison (Endocrinology-Reproductive Physiology)",10,42,5,37,16,45,8,19,11,50
+"58",57,"U. of Wisconsin at Madison (Physiology)",16,47,17,51,12,32,29,45,14,47
+"59",58,"Vanderbilt U. (Molecular Physiology &amp; Biophysics)",1,9,2,25,3,20,25,45,1,10
+"60",59,"Virginia Commonwealth U. (Physiology)",45,59,45,61,7,35,46,60,27,56
+"61",60,"Wake Forest U. (Physiology Pharmacology)",4,25,6,41,2,12,14,36,7,38
+"62",61,"Wayne State U. (Physiology)",46,60,34,58,26,49,40,55,30,56
+"63",62,"Yale U. (Cellular &amp; Molecular Physiology)",1,4,1,3,30,50,22,43,1,19

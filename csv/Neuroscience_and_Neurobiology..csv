@@ -1,0 +1,95 @@
+"","X","Institution..program","S.Rank.High","S.Rank.Low","Research.High","Research.Low","Students.High","Students.Low","Diversity.High","Diversity.Low","R.Rank.High","R.Rank.Low"
+"1",0,"Baylor College of Medicine (Neuroscience)",22,58,32,79,7,47,58,85,24,42
+"2",1,"Boston U. (Neuroscience &amp; Neurobiology, School of Medicine)",46,85,20,80,76,93,10,38,45,71
+"3",2,"Boston U. (Neuroscience, Graduate School of Arts and Sciences)",18,56,29,78,17,60,76,88,18,37
+"4",3,"Brandeis U. (Neuroscience)",2,15,2,22,10,57,4,18,9,28
+"5",4,"Brown U. (Neuroscience)",16,58,14,62,12,68,58,85,15,30
+"6",5,"California Institute of Technology (Computation and Neural Systems)",5,27,2,18,27,85,90,94,8,19
+"7",6,"Case Western Reserve U. (Neuroscience)",11,47,10,57,16,66,3,12,22,43
+"8",7,"Colorado State U. (Biomedical Sciences/ Neurosciences)",52,85,37,85,13,67,22,75,51,77
+"9",8,"Columbia U. (Neurobiology and Behavior)",5,25,2,24,56,93,38,75,4,13
+"10",9,"Cornell U. (Neurobiology and Behavior)",26,66,21,71,45,84,25,59,16,30
+"11",10,"Cornell U. (Weill Grad School of Medical Sci - Neuroscience)",19,61,13,59,4,42,23,59,33,60
+"12",11,"Drexel U. (Neuroscience)",35,81,23,80,34,79,20,61,68,88
+"13",12,"Duke U. (Neurobiology)",16,59,16,68,33,82,6,23,16,31
+"14",13,"Emory U. (Neuroscience (NS))",13,49,9,48,11,55,17,53,20,36
+"15",14,"Florida Atlantic U. (Complex Systems and Brain Sciences)",89,93,88,93,37,80,59,84,83,93
+"16",15,"Florida State U. (Neuroscience)",62,86,48,85,14,61,13,43,63,79
+"17",16,"George Washington U. (Molecular Medicine)",31,74,24,76,17,74,21,62,55,75
+"18",17,"Georgetown U. (Neuroscience)",14,50,21,75,4,51,3,14,25,50
+"19",18,"Georgia State U. (Biology- Neuroscience &amp; Neurobiology)",30,70,41,83,3,53,8,29,70,88
+"20",19,"Harvard U. (DMS- Neuroscience)",1,10,1,15,17,62,55,83,1,2
+"21",20,"Indiana U. at Bloomington (Neural Science)",79,93,59,90,63,92,85,90,66,84
+"22",21,"Indiana U.-Purdue U. Indianapolis (Medical Neurobiology)",58,88,29,74,87,94,78,92,41,73
+"23",22,"Iowa State U. (Neuroscience)",76,91,68,90,71,93,15,48,71,91
+"24",23,"Johns Hopkins U. (Neuroscience)",2,14,3,27,4,36,70,87,2,11
+"25",24,"Kent State U. Main Campus (Biomedical Sciences - Neurosciences)",94,94,94,94,8,69,62,90,85,94
+"26",25,"Loyola U. Chicago (Neuroscience)",71,90,47,88,15,78,10,39,87,94
+"27",26,"Massachusetts Institute of Technology (Neuroscience)",1,7,1,8,3,46,15,46,2,6
+"28",27,"Michigan State U. (Neuroscience)",59,87,28,83,60,91,5,20,72,89
+"29",28,"New York U. (Neural Science)",15,44,12,52,41,81,27,65,16,33
+"30",29,"New York U. (Neuroscience and Physiology/ Sackler)",15,51,9,47,15,62,90,94,29,54
+"31",30,"Northwestern U. (NU Inter- departmental Neuroscience Program (NUIN))",35,78,16,66,59,88,17,49,16,30
+"32",31,"Ohio State U. Main Campus (Neuroscience Graduate Studies Program)",67,90,65,91,43,90,8,30,59,81
+"33",32,"Oregon Health and Science U. (Behavioral Neuroscience)",22,69,11,54,26,68,41,80,39,63
+"34",33,"Oregon Health and Science U. (Neuroscience)",33,77,12,62,73,91,59,85,9,18
+"35",34,"Pennsylvania State U. (Neuroscience)",44,79,42,84,6,40,57,86,49,69
+"36",35,"Purdue U. Main Campus (Neurobiology and Physiology)",30,76,65,91,27,88,1,3,61,85
+"37",36,"Stanford U. (Neurosciences)",1,10,1,12,32,78,35,74,2,4
+"38",37,"State U. of New York at Stony Brook (Neuroscience)",14,50,8,50,25,67,28,74,31,57
+"39",38,"State U. of New York Health Science Center at Brooklyn (Neural &amp; Behavioral Science)",52,83,45,85,7,53,47,80,59,81
+"40",39,"State U. of New York Upstate Medical U. (Neuroscience)",58,87,47,86,16,67,49,86,73,89
+"41",40,"Tufts U. (Neuroscience)",24,69,15,59,11,79,14,52,48,72
+"42",41,"Tulane U. (Neuroscience Program)",45,79,36,81,12,56,59,85,41,61
+"43",42,"U. at Buffalo (SUNY) (Neuroscience)",40,79,52,88,2,22,31,76,74,91
+"44",43,"U. of Alabama at Birmingham (Neurobiology)",53,86,28,80,84,94,26,63,42,74
+"45",44,"U. of Alabama at Birmingham (Vision Science)",85,92,84,93,50,86,15,44,68,88
+"46",45,"U. of Arizona (Neuroscience)",20,62,18,73,4,48,61,87,34,59
+"47",46,"U. of California at Berkeley (Neuroscience)",4,17,8,37,3,37,73,89,7,14
+"48",47,"U. of California at Davis (Neuroscience)",23,69,28,81,8,51,16,48,28,53
+"49",48,"U. of California at Irvine (Anatomy and Neurobiology)",8,34,14,66,1,25,2,6,37,62
+"50",49,"U. of California at Irvine (Neurobiology and Behavior)",2,14,2,23,18,70,6,27,12,24
+"51",50,"U. of California at Los Angeles (Neuroscience &amp; Neurobiology [combined programs])",6,31,4,36,33,74,21,59,7,15
+"52",51,"U. of California at San Diego (Neurosciences)",2,12,1,15,21,64,44,80,3,8
+"53",52,"U. of California at San Francisco (Neuroscience)",2,16,2,18,38,78,34,69,2,9
+"54",53,"U. of Chicago (Neurobiology)",31,73,36,83,2,64,18,50,32,50
+"55",54,"U. of Chicago (Neurobiology, Pharmacology, Physiology)",28,73,34,83,3,60,91,94,25,52
+"56",55,"U. of Cincinnati Main Campus (Neuroscience)",25,68,17,67,3,57,49,83,32,69
+"57",56,"U. of Colorado at Boulder (Neuroscience)",15,55,24,78,3,37,1,3,48,91
+"58",57,"U. of Colorado at Denver and Health Sciences Center (Neuroscience)",38,81,25,80,41,79,39,79,33,54
+"59",58,"U. of Connecticut (Biomedical Science Ph.D. Neurosciences)",19,60,24,79,2,26,15,47,64,86
+"60",59,"U. of Connecticut (Comm Sci: Speech, Language  Hearing)",88,93,88,93,49,90,8,35,92,94
+"61",60,"U. of Connecticut (Physiology Neurobiology Ph.D.)",29,67,70,91,1,10,29,72,54,85
+"62",61,"U. of Florida (Medical Sciences: Neuroscience)",26,68,24,76,2,25,52,84,36,66
+"63",62,"U. of Houston main campus (Vision Science/ Physiological Optics)",40,83,51,88,2,91,5,19,57,85
+"64",63,"U. of Illinois at Urbana-Champaign (Neuroscience)",51,82,34,80,67,91,16,45,39,65
+"65",64,"U. of Iowa (Neuroscience)",16,58,10,55,13,55,67,87,42,68
+"66",65,"U. of Kentucky (Anatomy &amp; Neurobiology)",43,79,36,83,43,89,32,65,45,70
+"67",66,"U. of Louisville (Anatomical Sciences &amp; Neurobiology)",65,88,78,92,2,57,50,80,75,91
+"68",67,"U. of Maryland at College Park (Neurosciences and Cognitive Sciences)",34,69,37,75,8,77,6,21,42,72
+"69",68,"U. of Massachusetts at Amherst (Neuroscience and Behavior)",67,87,61,88,22,77,4,16,63,83
+"70",69,"U. of Massachusetts at Worcester (Neuroscience)",64,89,29,84,87,94,17,47,52,78
+"71",70,"U. of Miami (Neuroscience)",30,75,19,72,58,89,32,66,36,63
+"72",71,"U. of Michigan at Ann Arbor (Neuroscience)",12,42,10,50,41,80,20,56,16,30
+"73",72,"U. of Minnesota-Twin Cities (Neuroscience)",17,58,21,72,6,48,35,74,17,36
+"74",73,"U. of North Carolina at Chapel Hill (Neurobiology)",16,53,17,71,11,55,4,20,21,41
+"75",74,"U. of Pennsylvania (Biomed Grad Studies-Neuroscience)",9,37,7,40,35,79,49,81,8,14
+"76",75,"U. of Pittsburgh Main Campus (Neuroscience)",14,48,10,47,69,90,33,70,15,34
+"77",76,"U. of Rochester (Neuroscience)",18,58,17,68,36,89,32,72,28,45
+"78",77,"U. of Southern California (Neuroscience)",28,68,30,78,22,68,19,52,37,62
+"79",78,"U. of Texas at Austin (Neuroscience)",44,81,21,70,59,90,18,57,31,59
+"80",79,"U. of Texas Health Science Center at Houston and U. of Texas M.D. Anderson Cancer Center (Neuroscience)",61,87,38,83,78,93,43,80,52,73
+"81",80,"U. of Texas Southwestern Medical Center at Dallas (Neuroscience)",4,20,2,23,4,75,28,67,15,37
+"82",81,"U. of Toledo (Cellular &amp; Molecular Neurobiology)",47,82,81,93,26,86,24,68,69,91
+"83",82,"U. of Utah (Neuroscience)",72,90,52,88,53,87,49,84,40,64
+"84",83,"U. of Vermont (Neuroscience)",63,90,30,82,32,87,68,89,63,86
+"85",84,"U. of Virginia (Neuroscience)",18,62,22,81,15,57,15,46,17,39
+"86",85,"U. of Washington (Neurobiology and Behavior)",14,53,13,62,60,91,89,93,15,34
+"87",86,"U. of Wisconsin at Madison (Neuroscience)",19,58,19,71,3,30,37,73,26,47
+"88",87,"Uniformed Services U. of the Health Sciences (Neurosciences)",87,93,68,91,45,86,35,75,85,93
+"89",88,"Vanderbilt U. (Neuroscience)",15,48,8,48,9,63,39,78,27,54
+"90",89,"Wake Forest U. (Neurobiology and Anatomy)",35,80,34,83,1,42,41,74,78,93
+"91",90,"Wake Forest U. (Neuroscience)",13,51,31,83,3,52,5,20,30,60
+"92",91,"Washington State U. (Graduate Program in Neuroscience)",54,85,30,77,34,81,19,51,73,92
+"93",92,"Washington U. in St. Louis (Neurosciences)",8,34,7,47,11,66,88,93,4,15
+"94",93,"Yale U. (Neuroscience Track of Bio &amp; Biomed Sci)",2,18,5,35,15,57,52,84,5,11
