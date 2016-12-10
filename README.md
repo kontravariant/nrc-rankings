@@ -10,11 +10,12 @@ I set out to scrape, munge and redisplay this data in a more attractive manner.
 * Load all the sheets into R data frames and create means of the ranking categories to produce a deterministic overall ranking for each field of study (the R scripts). The final data was output as a JSON object (array of arrays).
 * Create a basic HTML page with [DataTables](https://datatables.net/) jQuery plug-in to display data
 * Add javascript to dynamically draw the DataTable based on the dropdown selection, which is dynamically filled from the top-level array names in the JSON object.
+  * Drop down selection values achieved by extracting all words in parentheses and finding highest frequency to use as the JSON array title for that field. 
 
 ####To-do List:
-- Properly format the dropdown selections with the full names as listed by the Chronicle.
-  - This must be done upstream of not only the website, but the R script, since the excel sheet names are where these are truncated.
-  - The trick will be passing this in a way that is easily obtainable by R (perhaps the top-left cell of every excel?).
-    - Or these names can be approximated by parsing out the text in parentheses for the first Institution in each list.
+- ~~Properly format the dropdown selections with the full names as listed by the Chronicle.~~
+  - ~~This must be done upstream of not only the website, but the R script, since the excel sheet names are where these are truncated.~~
+  - ~~The trick will be passing this in a way that is easily obtainable by R (perhaps the top-left cell of every excel?).~~
+    - ~~Or these names can be approximated by parsing out the text in parentheses for the first Institution in each list.~~
 - Perhaps look at comparisons of these rankings with US News or alternate sources/data. Or combine the rankings?
   - Look at endowment, population, location, faculty salaries, placements, etc.
