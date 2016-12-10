@@ -7556,7 +7556,7 @@
       "Mean-Rank": 22.4
     }
   ],
-  "Astrophysics": [
+  "Astronomy": [
     {
       "Rank": 1,
       "Institution (Program)": "California Institute of Technology (Astrophysics)",
@@ -11210,7 +11210,7 @@
       "Mean-Rank": 25.3
     }
   ],
-  "Environmental Science and Engineering": [
+  "Geology": [
     {
       "Rank": 1,
       "Institution (Program)": "California Institute of Technology (Environmental Science and Engineering)",
@@ -15757,7 +15757,7 @@
       "Mean-Rank": 114.9
     }
   ],
-  "Romance Languages and Literature": [
+  "French": [
     {
       "Rank": 1,
       "Institution (Program)": "Harvard U. (Romance Languages and Literature)",
@@ -16490,7 +16490,7 @@
       "Mean-Rank": 35.4
     }
   ],
-  "Cancer Biology": [
+  "Cell and Developmental Biology": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of Texas Health Science Center at Houston and U. of Texas M.D. Anderson Cancer Center (Cancer Biology)",
@@ -18566,7 +18566,7 @@
       "Mean-Rank": 108.1
     }
   ],
-  "Annenberg)": [
+  "Communication": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of Pennsylvania (Communication(Annenberg))",
@@ -23779,7 +23779,7 @@
       "Institution (Program)": "U. of New Orleans (Political Science)"
     }
   ],
-  "Musicology": [
+  "Music": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of California at Los Angeles (Musicology)",
@@ -24852,7 +24852,7 @@
       "Mean-Rank": 59.7
     }
   ],
-  "Civil And Environmental Engineering": [
+  "Civil Engineering": [
     {
       "Rank": 1,
       "Institution (Program)": "Princeton U. (Civil And Environmental Engineering)",
@@ -27068,7 +27068,7 @@
       "Institution (Program)": "U. of Colorado at Denver and Health Sciences Center (Civil Engineering)"
     }
   ],
-  "Germanic Studies": [
+  "German": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of Minnesota-Twin Cities (Germanic Studies)",
@@ -27571,7 +27571,7 @@
       "Institution (Program)": "U. of Houston main campus (History)"
     }
   ],
-  "Mechanical and Aerospace Engineering": [
+  "Mechanical Engineering": [
     {
       "Rank": 1,
       "Institution (Program)": "Princeton U. (Mechanical and Aerospace Engineering)",
@@ -29736,7 +29736,7 @@
       "Institution (Program)": "Stevens Institute of Technology (Ocean Engineering)"
     }
   ],
-  "Literature": [
+  "Comparative Literature": [
     {
       "Rank": 1,
       "Institution (Program)": "Duke U. (Literature)",
@@ -30520,7 +30520,7 @@
       "Mean-Rank": 37
     }
   ],
-  "Scripps Institution of Oceanography": [
+  "Oceanography": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of California at San Diego (Scripps Institution of Oceanography)",
@@ -35288,7 +35288,7 @@
       "Mean-Rank": 70.8
     }
   ],
-  "Spanish and Portuguese": [
+  "Spanish": [
     {
       "Rank": 1,
       "Institution (Program)": "Yale U. (Spanish and Portuguese)",
@@ -39386,7 +39386,7 @@
       "Institution (Program)": "U. of Texas at Dallas (Studies in Literature)"
     }
   ],
-  "Aeronautics": [
+  "Aerospace Engineering": [
     {
       "Rank": 1,
       "Institution (Program)": "California Institute of Technology (Aeronautics)",
@@ -39915,7 +39915,7 @@
       "Mean-Rank": 27.3
     }
   ],
-  "Religion": [
+  "Religious Studies": [
     {
       "Rank": 1,
       "Institution (Program)": "Duke U. (Religion)",
@@ -40597,7 +40597,7 @@
       "Mean-Rank": 34.1
     }
   ],
-  "Human Movement Science": [
+  "Kinesiology": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of North Carolina at Chapel Hill (Human Movement Science)",
@@ -41296,7 +41296,7 @@
       "Mean-Rank": 33.7
     }
   ],
-  "Plant Breeding": [
+  "Plant Pathology": [
     {
       "Rank": 1,
       "Institution (Program)": "Cornell U. (Plant Breeding)",
@@ -43278,7 +43278,7 @@
       "Institution (Program)": "U. of Wyoming (Plant Science)"
     }
   ],
-  "Control and Dynamical Systems": [
+  "Engineering Mechanics": [
     {
       "Rank": 1,
       "Institution (Program)": "California Institute of Technology (Control and Dynamical Systems)"
@@ -43336,7 +43336,7 @@
       "Institution (Program)": "Virginia Tech (Engineering Mechanics)"
     }
   ],
-  "Health Policy": [
+  "Epidemiology": [
     {
       "Rank": 1,
       "Institution (Program)": "Harvard U. (Health Policy)",
@@ -45418,7 +45418,7 @@
       "Mean-Rank": 27.1
     }
   ],
-  "History of Science": [
+  "History": [
     {
       "Rank": 1,
       "Institution (Program)": "Harvard U. (History of Science)",
@@ -50789,7 +50789,7 @@
       "Institution (Program)": "Virginia Tech (Macromolecular Science and Engineering)"
     }
   ],
-  "Materials Science": [
+  "Materials Science and Engineering": [
     {
       "Rank": 1,
       "Institution (Program)": "California Institute of Technology (Materials Science)",
@@ -52206,7 +52206,7 @@
       "Institution (Program)": "U. of Georgia (Textile Sciences)"
     }
   ],
-  "Applied and Computational Mathematics": [
+  "Applied Mathematics": [
     {
       "Rank": 1,
       "Institution (Program)": "Princeton U. (Applied and Computational Mathematics)",
@@ -53663,7 +53663,7 @@
       "Institution (Program)": "U. of Louisiana at Lafayette (Applied Language and Speech Sciences)"
     }
   ],
-  "Animal Science": [
+  "Animal Sciences": [
     {
       "Rank": 1,
       "Institution (Program)": "Cornell U. (Animal Science)",
@@ -54689,7 +54689,7 @@
       "Institution (Program)": "U. of Wyoming (Reproductive Biology)"
     }
   ],
-  "Molecular, Cell &amp; Integrative Physiology": [
+  "Physiology": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of California at Los Angeles (Molecular, Cell &amp; Integrative Physiology)",
@@ -59378,7 +59378,7 @@
       "Institution (Program)": "Western Michigan U. (Criminology)"
     }
   ],
-  "Biomedical Sciences": [
+  "Biology": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of California at San Francisco (Biomedical Sciences)",
@@ -61420,7 +61420,7 @@
       "Mean-Rank": 114
     }
   ],
-  "Bioengineering": [
+  "Biomedical Engineering": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of California at Berkeley and at San Francisco (Bioengineering)",
@@ -62680,7 +62680,7 @@
       "Mean-Rank": 66
     }
   ],
-  "Performance Studies": [
+  "Theatre": [
     {
       "Rank": 1,
       "Institution (Program)": "New York U. (Performance Studies)",
@@ -64945,7 +64945,7 @@
       "Mean-Rank": 105
     }
   ],
-  "Forest Molecular Genetics and Biotechnology": [
+  "Forestry": [
     {
       "Rank": 1,
       "Institution (Program)": "Michigan Technological U. (Forest Molecular Genetics and Biotechnology)",
@@ -65594,7 +65594,7 @@
       "Institution (Program)": "Virginia Tech (Computer Engineering)"
     }
   ],
-  "Agricultural and Resource Economics": [
+  "Agricultural Economics": [
     {
       "Rank": 1,
       "Institution (Program)": "U. of California at Berkeley (Agricultural and Resource Economics)",
@@ -72085,7 +72085,7 @@
       "Institution (Program)": "Seton Hall U. (Psychology)"
     }
   ],
-  "Near Eastern and Judaic Studies": [
+  "Slavic Languages and Literatures": [
     {
       "Rank": 1,
       "Institution (Program)": "Brandeis U. (Near Eastern and Judaic Studies)"
@@ -72463,7 +72463,7 @@
       "Institution (Program)": "Yale U. (Slavic Languages &amp; Literatures)"
     }
   ],
-  "Biology/Biochemistry and Biophysics": [
+  "Biochemistry": [
     {
       "Rank": 1,
       "Institution (Program)": "Massachusetts Institute of Technology (Biology/Biochemistry and Biophysics)",

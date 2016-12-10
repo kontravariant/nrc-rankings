@@ -31,7 +31,13 @@ for(i in 1:62)  {
     'Mean-Rank'
   )
   colnames(dat) = headers
-  name_str = paste(dat[[2]][1])
-  field = gsub(".*\\((.*)\\).*", "\\1", name_str)
+  name_field = dat[[2]]
+  fl = list(NA)
+  for(word in name_field) {
+    field = gsub(".*\\((.*)\\).*", "\\1", paste(word))
+    fl = append(fl,field[1])
+  }
+  fl = unlist(fl)
+  field = names(which(table(fl) == max(table(fl))))
   ranked_list[[paste(field)]] = dat
 }
