@@ -1,0 +1,137 @@
+"","X","Institution..program","S.Rank.High","S.Rank.Low","Research.High","Research.Low","Students.High","Students.Low","Diversity.High","Diversity.Low","R.Rank.High","R.Rank.Low"
+"1",0,"Arizona State U. (Electrical Engineering)",11,40,15,51,21,59,51,109,14,31
+"2",1,"Auburn U. (Electrical Engineering)",55,103,51,111,55,105,10,54,43,86
+"3",2,"Binghamton U. (SUNY) (Electrical &amp; Computer Engineering)",100,130,93,132,104,124,36,94,73,116
+"4",3,"Boston U. (Electrical Engineering)",20,59,11,47,53,104,55,107,32,58
+"5",4,"Brown U. (ENGINEERING: Electrical Science and Computer Engineering)",12,36,21,60,7,46,30,95,29,55
+"6",5,"California Institute of Technology (Electrical Engineering)",4,8,4,11,4,25,66,120,6,14
+"7",6,"Carnegie Mellon U. (Electrical &amp; Computer Engineering)",20,54,29,87,20,56,37,94,15,26
+"8",7,"Case Western Reserve U. (Electrical Engineering)",13,45,7,25,120,130,113,132,23,57
+"9",8,"Catholic U. of America (Electrical Engineering and Computer Science)",121,133,66,114,130,136,83,118,110,132
+"10",9,"City U. of New York Graduate Center (Electrical Engineering)",86,120,40,92,75,109,10,47,107,131
+"11",10,"Clarkson U. (Electrical and Computer Engineering)",114,131,93,131,46,101,126,134,110,131
+"12",11,"Clemson U. (Electrical Engineering)",74,113,86,126,4,30,118,133,66,104
+"13",12,"Cleveland State U. (Engineering (Electrical and Computer))",134,136,134,136,130,135,54,103,125,135
+"14",13,"Colorado State U. (Electrical and Computer Engineering)",25,71,21,75,31,81,36,96,49,96
+"15",14,"Columbia U. (Electrical Engineering)",26,66,13,53,93,124,66,118,25,50
+"16",15,"Cornell U. (Electrical and Computer Engineering)",13,43,14,50,38,84,87,121,17,32
+"17",16,"Drexel U. (Electrical and Computer Engineering)",52,95,54,109,50,113,49,103,53,93
+"18",17,"Duke U. (Electrical and Computer Engineering)",10,40,11,48,11,46,12,48,30,58
+"19",18,"Florida Atlantic U. (Electrical Engineering)",134,136,122,135,127,133,3,11,134,136
+"20",19,"Florida International U. (Electrical Engineering)",112,132,101,133,64,111,2,4,124,135
+"21",20,"George Washington U. (Electrical Engineering)",115,131,82,121,129,135,41,100,92,118
+"22",21,"Georgia Institute of Technology (Electrical &amp; Computer Engineering)",8,30,14,59,79,107,20,74,2,7
+"23",22,"Harvard U. (DEAS-Engineering Sciences)",1,3,1,3,20,66,58,110,4,15
+"24",23,"Howard U. (Electrical Engineering)",107,129,119,135,53,106,1,1,129,136
+"25",24,"Illinois Institute of Technology (Electrical Engineering)",105,128,96,130,68,108,18,81,77,107
+"26",25,"Iowa State U. (Electrical Engineering)",18,53,19,69,15,54,17,81,22,38
+"27",26,"Johns Hopkins U. (Electrical and Computer Engineering)",22,61,13,49,39,89,18,73,20,48
+"28",27,"Kansas State U. (Electrical &amp; Computer Engineering)",80,124,76,128,29,105,25,90,92,128
+"29",28,"Lehigh U. (Electrical and Computer Engineering)",70,112,58,122,41,88,5,36,59,99
+"30",29,"Louisiana State U. at Baton Rouge (Electrical Engineering)",88,124,71,125,112,125,5,35,81,109
+"31",30,"Marquette U. (Electrical and Computer Engineering)",52,114,28,99,55,107,63,111,77,119
+"32",31,"Massachusetts Institute of Technology (Electrical and Computer Engineering)",6,18,6,20,11,46,108,128,7,15
+"33",32,"Michigan State U. (Electrical Engineering)",23,59,40,98,9,33,10,50,47,87
+"34",33,"Michigan Technological U. (Electrical Engineering)",67,112,80,129,63,111,18,87,84,116
+"35",34,"Mississippi State U. (Electrical Engineering)",129,134,104,133,135,136,17,67,93,120
+"36",35,"New Jersey Institute of Technology (Electrical Engineering)",61,100,60,111,15,59,6,37,37,69
+"37",36,"New Mexico State U. at Las Cruces (Electrical and Computer Engineering)",56,103,48,112,13,66,58,110,90,122
+"38",37,"North Carolina State U. (Electrical Engineering)",58,100,47,101,104,124,47,105,38,69
+"39",38,"Northeastern U. (Electrical &amp; Computer Engineering - Computer)",53,115,52,118,18,126,6,35,69,130
+"40",39,"Northwestern U. (Electrical and Computer Engineering)",8,29,10,43,22,69,74,121,20,38
+"41",40,"Ohio State U. Main Campus (Electrical Engineering)",29,71,31,91,52,107,34,93,19,39
+"42",41,"Ohio U. Main Campus (Electrical Engineering and Computer Science)",106,128,113,133,56,108,52,110,96,120
+"43",42,"Oklahoma State U. Main Campus (Electrical Engineering)",105,127,88,126,20,77,27,92,101,127
+"44",43,"Old Dominion U. (Electrical and Computer Engineering)",70,122,40,112,68,103,100,125,88,120
+"45",44,"Oregon Health and Science U. (Electrical Engineering)",16,62,54,128,14,70,4,23,66,119
+"46",45,"Oregon State U. (Electrical and Computer Engineering)",57,102,61,118,56,110,97,127,71,107
+"47",46,"Pennsylvania State U. (Electrical Engineering)",12,40,14,50,30,73,53,110,16,29
+"48",47,"Princeton U. (Electrical Engineering)",1,3,1,4,1,14,28,85,2,3
+"49",48,"Purdue U. Main Campus (Electrical &amp; Computer Engineering)",8,26,13,47,55,97,21,82,5,13
+"50",49,"Rensselaer Polytechnic Institute (Electric Power Engineering)",28,80,27,93,58,112,9,50,40,79
+"51",50,"Rensselaer Polytechnic Institute (Electrical Engineering)",22,62,14,55,89,121,37,102,21,39
+"52",51,"Rice U. (Electrical and Computer Engineering)",22,56,25,74,26,78,104,129,40,72
+"53",52,"Rutgers U. at New Brunswick (Electrical and Computer Engineering)",59,106,29,81,99,122,8,43,50,94
+"54",53,"Southern Illinois U. at Carbondale (Electrical and Computer Engineering)",126,133,131,136,54,110,4,23,103,129
+"55",54,"Southern Methodist U. (Electrical Engineering)",81,112,83,123,66,115,16,63,57,105
+"56",55,"Stanford U. (Electrical Engineering)",1,3,1,4,57,102,76,117,1,1
+"57",56,"State U. of New York at Stony Brook (Electrical and Computer Engineering)",46,91,50,105,24,65,4,27,51,94
+"58",57,"Syracuse U. Main Campus (Electrical &amp; Computer Engineering)",95,123,94,127,103,124,14,67,65,100
+"59",58,"Texas A&M U. (Electrical Engineering)",36,70,34,79,107,120,8,44,15,24
+"60",59,"Texas A&M U. (Computer Engineering)",55,96,42,96,43,106,15,69,49,87
+"61",60,"Texas Tech U. (Electrical Engineering)",75,123,19,76,33,91,73,120,120,135
+"62",61,"Tufts U. (Electrical Engineering)",78,116,88,124,3,43,98,125,107,133
+"63",62,"U. at Buffalo (SUNY) (Electrical Engineering)",62,108,46,105,103,123,10,50,51,92
+"64",63,"U. of Akron (Electrical and Computer Engineering)",88,128,72,124,21,88,28,95,107,132
+"65",64,"U. of Alabama (Electrical and Computer Engineering)",132,136,111,135,128,135,123,135,110,131
+"66",65,"U. of Alabama at Huntsville (Electrical Engineering)",78,126,49,122,38,94,104,128,123,135
+"67",66,"U. of Arizona (Electrical &amp; Computer Engineering)",64,112,41,100,116,125,40,104,30,62
+"68",67,"U. of Arkansas Main Campus (Electrical Engineering)",62,107,86,129,3,26,3,20,83,118
+"69",68,"U. of Arkansas Main Campus (Microelectronics-photonics)",11,41,19,63,1,13,15,60,35,81
+"70",69,"U. of California at Berkeley (Electrical Engineering and Computer Science)",7,26,8,31,23,69,118,132,6,15
+"71",70,"U. of California at Davis (Electrical &amp; Computer Engineering)",53,99,41,103,68,112,103,126,58,95
+"72",71,"U. of California at Irvine (Electrical and Computer Engineering)",53,93,39,94,112,125,17,69,50,88
+"73",72,"U. of California at Los Angeles (Electrical Engineering)",6,19,5,19,70,105,74,117,5,13
+"74",73,"U. of California at Riverside (Electrical Engineering)",10,38,10,41,8,58,2,8,30,63
+"75",74,"U. of California at San Diego (Electrical and Computer Engineering)",12,42,9,36,73,112,105,129,11,19
+"76",75,"U. of California at Santa Barbara (Electrical &amp; Computer Engineering)",4,8,3,8,69,109,107,130,3,8
+"77",76,"U. of California at Santa Cruz (Electrical Engineering)",14,45,12,49,3,16,12,54,31,60
+"78",77,"U. of Central Florida (Computer Engineering)",113,131,111,135,4,29,75,117,104,129
+"79",78,"U. of Central Florida (Electrical Engineering)",53,98,57,114,3,21,15,69,43,83
+"80",79,"U. of Central Florida (Optics)",6,21,4,12,11,43,112,131,16,36
+"81",80,"U. of Cincinnati Main Campus (Electrical &amp; Computer Engineering)",61,103,58,116,41,79,24,85,41,74
+"82",81,"U. of Colorado at Boulder (Electrical Engineering)",41,89,33,97,99,119,111,130,32,67
+"83",82,"U. of Connecticut (Electrical Engineering Ph.D.)",20,55,14,59,19,64,20,79,27,50
+"84",83,"U. of Dayton (Electrical Engineering)",68,115,67,125,14,56,14,62,82,116
+"85",84,"U. of Dayton (Electro-Optics)",18,62,9,50,3,30,132,136,38,86
+"86",85,"U. of Delaware (Electrical and Computer Engineering)",48,90,45,104,47,96,53,114,47,87
+"87",86,"U. of Florida (Electrical and Computer Engineering)",35,84,34,100,54,95,32,93,23,46
+"88",87,"U. of Hawaii-Manoa (Electrical Engineering)",90,125,81,127,17,57,70,119,97,125
+"89",88,"U. of Houston main campus (Electrical Engineering)",37,74,41,90,48,104,12,58,53,96
+"90",89,"U. of Idaho (Electrical Engineering)",103,129,90,132,76,114,135,136,106,133
+"91",90,"U. of Illinois at Chicago (Electrical &amp; Computer Engineering)",56,105,43,100,29,80,24,92,65,105
+"92",91,"U. of Illinois at Urbana-Champaign (Electrical and Computer Engineering)",4,13,6,23,12,48,84,121,3,7
+"93",92,"U. of Iowa (Electrical and Computer Engineering)",23,62,15,61,10,46,30,89,43,89
+"94",93,"U. of Kansas (Electrical Engineering)",62,111,67,123,4,25,116,133,77,111
+"95",94,"U. of Kentucky (Electrical Engineering)",19,58,26,83,2,22,48,114,50,95
+"96",95,"U. of Louisville (Electrical Engineering)",67,119,38,109,95,122,51,115,102,128
+"97",96,"U. of Maryland at College Park (Electrical Engineering)",26,73,23,80,116,126,26,87,14,26
+"98",97,"U. of Maryland-Baltimore County (Electrical Engineering)",44,107,15,71,126,130,3,16,45,97
+"99",98,"U. of Massachusetts at Amherst (Electrical and Computer Engineering)",27,72,29,92,34,95,6,39,56,94
+"100",99,"U. of Miami (Electrical and Computer Engineering)",60,111,49,118,41,98,4,26,59,97
+"101",100,"U. of Michigan at Ann Arbor (Electrical and Computer Engineering)",8,27,8,29,64,101,55,108,4,11
+"102",101,"U. of Minnesota-Twin Cities (Electrical Engineering)",14,47,13,57,24,57,64,116,15,30
+"103",102,"U. of Mississippi (Electrical Engineering)",23,65,19,72,1,4,31,108,43,81
+"104",103,"U. of Missouri at Columbia (Electrical Engineering)",92,126,85,129,63,107,51,107,100,126
+"105",104,"U. of Missouri at Rolla (Electrical Engineering)",76,118,68,123,44,99,36,105,63,105
+"106",105,"U. of Nebraska at Lincoln (Electrical Engineering)",54,96,97,130,4,36,16,71,82,112
+"107",106,"U. of Nevada at Reno (Electrical Engineering)",86,126,77,127,3,55,97,128,108,133
+"108",107,"U. of New Hampshire (Electrical Engineering)",123,133,92,130,125,132,130,135,109,132
+"109",108,"U. of New Mexico Main Campus (Electrical &amp; Computer Engineering)",54,100,40,99,26,95,27,92,46,88
+"110",109,"U. of North Carolina at Charlotte (Ph.D. in Electrical Engineering)",90,126,66,124,33,95,13,64,110,131
+"111",110,"U. of Notre Dame (Electrical and Computer Engineering)",33,81,25,87,21,68,56,109,36,71
+"112",111,"U. of Oklahoma Norman Campus (Electrical &amp; Computer Engineering)",51,101,55,118,16,60,63,113,83,115
+"113",112,"U. of Pennsylvania (Electrical and Systems Engineering)",37,76,43,97,12,49,55,113,49,79
+"114",113,"U. of Pittsburgh Main Campus (Electrical Engineering)",72,107,86,124,23,79,27,87,47,85
+"115",114,"U. of Rochester (Electrical Engineering)",31,77,23,82,39,94,32,93,38,69
+"116",115,"U. of South Carolina at Columbia (Electrical Engineering)",4,17,3,12,14,52,23,84,14,39
+"117",116,"U. of South Florida (Electrical Engineering)",101,127,88,129,69,106,31,93,74,108
+"118",117,"U. of Southern California (Electrical Engineering)",35,71,29,78,114,126,47,108,11,20
+"119",118,"U. of Tennessee (Electrical and Computer Engineering)",53,100,57,119,60,106,12,66,51,89
+"120",119,"U. of Texas at Austin (Electrical and Computer Engineering)",25,64,16,55,129,133,84,122,5,14
+"121",120,"U. of Texas at Dallas (Electrical Engineering)",65,112,57,115,64,114,42,100,43,87
+"122",121,"U. of Toledo (Electrical Engineering)",75,118,110,134,2,36,40,103,87,119
+"123",122,"U. of Utah (Electrical Engineering)",32,70,25,77,38,97,69,119,47,92
+"124",123,"U. of Virginia (Electrical Engineering)",14,50,14,58,39,92,10,52,26,49
+"125",124,"U. of Washington (Electrical Engineering)",30,62,35,85,15,51,90,121,27,45
+"126",125,"U. of Wisconsin at Madison (Electrical Engineering)",29,70,26,85,65,104,37,97,23,42
+"127",126,"U. of Wyoming (Electrical and Computer Engineering)",51,104,81,130,27,102,53,103,77,130
+"128",127,"Utah State U. (Electrical Engineering (ENG))",106,127,124,135,27,96,129,136,105,127
+"129",128,"Vanderbilt U. (Electrical Engineering)",24,61,20,68,4,34,34,94,35,68
+"130",129,"Virginia Commonwealth U. (Electrical and Computer Science Engineering)",45,96,31,94,90,122,44,108,72,116
+"131",130,"Virginia Tech (Electrical Engineering)",29,68,48,111,51,101,60,111,19,38
+"132",131,"Washington State U. (Electrical Engineering)",68,111,59,112,86,120,19,78,77,107
+"133",132,"Washington U. in St. Louis (Electrical and Systems Engineering)",55,97,50,101,80,117,116,132,42,73
+"134",133,"Wayne State U. (Computer Engineering)",105,131,63,120,123,134,39,106,66,113
+"135",134,"Wayne State U. (Electrical Engineering)",92,125,60,117,115,127,36,96,73,103
+"136",135,"Yale U. (Electrical Engineering)",6,24,7,25,15,73,12,68,21,46

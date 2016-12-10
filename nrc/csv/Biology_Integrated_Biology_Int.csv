@@ -1,0 +1,121 @@
+"","X","Institution..program","S.Rank.High","S.Rank.Low","Research.High","Research.Low","Students.High","Students.Low","Diversity.High","Diversity.Low","R.Rank.High","R.Rank.Low"
+"1",0,"Auburn U. (Biological Sciences)",60,103,54,104,24,75,26,85,90,113
+"2",1,"Auburn U. (Biomedical Sciences)",67,111,59,112,22,103,22,71,106,117
+"3",2,"Baylor College of Medicine (Cardiovascular Sciences)",10,29,9,36,32,90,109,118,20,32
+"4",3,"Baylor U. (Biomedical Studies)",87,112,63,104,83,117,77,109,71,97
+"5",4,"Binghamton U. (SUNY) (Biochemistry, Cell Biology &amp; Molecular Biology)",47,92,44,104,4,26,52,105,70,97
+"6",5,"Boston College (Biology/Integrated Biology/Integrated Biomedical Sciences)",65,106,48,101,54,102,31,84,56,82
+"7",6,"Boston U. (Biology)",58,103,38,93,66,107,40,91,32,67
+"8",7,"Brigham Young U. (Physiology and Developmental Biology)",19,65,33,94,1,92,92,117,54,94
+"9",8,"California Institute of Technology (Biology)",1,5,1,3,27,80,56,101,1,8
+"10",9,"City U. of New York Graduate Center (Biology)",55,100,41,99,106,117,3,10,30,63
+"11",10,"Clark U. (Biology)",71,110,61,112,12,76,72,104,96,115
+"12",11,"Clemson U. (Biological Sciences)",92,115,75,113,53,110,28,85,95,114
+"13",12,"Cleveland State U. (Regulatory Biology)",61,104,59,106,17,88,12,25,83,107
+"14",13,"Cold Spring Harbor Laboratory (Doctoral Program in the Biological Sciences)",3,17,6,28,2,16,71,105,12,24
+"15",14,"Columbia U. (Biological Sciences)",11,32,5,29,97,117,39,87,12,23
+"16",15,"Columbia U. (Integrated Program In Cellular, Molecular and Biophysical Studies)",4,21,2,13,98,119,86,110,5,17
+"17",16,"Dartmouth College (Molecular &amp; Cellular Biology)",17,46,14,51,11,53,94,113,12,25
+"18",17,"Drexel U. (Biological Sciences)",55,106,35,100,90,117,3,13,95,116
+"19",18,"Duke U. (Biology)",11,30,12,43,17,72,37,93,9,20
+"20",19,"Florida Institute of Technology (Biological Sciences)",60,105,58,112,3,24,119,119,51,88
+"21",20,"Florida International U. (Biology)",44,89,38,98,39,101,19,53,35,67
+"22",21,"Florida State U. (Biological Sciences)",78,113,52,102,74,115,59,101,59,91
+"23",22,"Fordham U. (Biological Sciences)",95,116,72,112,101,118,33,94,89,113
+"24",23,"Georgetown U. (Biology)",54,98,80,114,60,115,3,14,74,103
+"25",24,"Georgia Institute of Technology (Biology)",19,53,13,51,40,96,32,86,40,73
+"26",25,"Howard U. (Biology)",77,107,99,117,85,112,1,1,80,104
+"27",26,"Illinois Institute of Technology (Biology)",50,92,19,55,91,115,34,88,75,104
+"28",27,"Indiana U.-Purdue U. Indianapolis (Biology)",54,111,41,99,6,115,18,56,90,113
+"29",28,"Iowa State U. (Biomedical Sciences)",59,104,42,94,74,116,27,83,68,97
+"30",29,"Johns Hopkins U. (Biology)",8,24,12,44,8,40,22,59,9,21
+"31",30,"Kansas State U. (Biology)",26,63,31,89,6,43,47,95,37,70
+"32",31,"Loma Linda U. (Biology)",115,120,110,119,107,120,120,120,89,120
+"33",32,"Louisiana State U. at Baton Rouge (Biological Sciences)",40,88,30,91,51,97,40,94,29,62
+"34",33,"Louisiana State U. at Baton Rouge (Veterinary Medical Science)",48,92,38,89,24,83,37,89,54,82
+"35",34,"Marquette U. (Biological Sciences)",88,115,56,107,80,112,3,14,95,115
+"36",35,"Michigan Technological U. (Biological Sciences)",96,115,113,119,16,64,29,89,95,115
+"37",36,"Mississippi State U. (Biological Sciences)",67,112,46,102,50,115,3,14,111,118
+"38",37,"Mississippi State U. (Veterinary Medical Science)",56,105,67,112,23,106,31,90,95,115
+"39",38,"Montana State U. at Bozeman (Biology)",97,114,65,98,97,120,107,118,77,103
+"40",39,"Mount Sinai School of Medicine (Ph.D. in Biomedical Sciences)",15,41,11,48,85,113,26,71,5,16
+"41",40,"New York Medical College (Integrated Ph.D. Program in Basic Medical Sciences)",38,79,22,66,77,110,18,50,35,66
+"42",41,"North Carolina State U. (Comparative Biomedical Sciences)",33,76,28,81,34,87,21,55,31,67
+"43",42,"Northeastern U. (Biology)",56,94,62,104,17,83,22,64,48,77
+"44",43,"Northern Illinois U. (Biology)",113,118,116,119,51,98,42,96,102,115
+"45",44,"Northwestern U. (Interdepartmental Biological and Life Sciences Program)",12,32,12,44,25,79,26,76,3,12
+"46",45,"Ohio State U. Main Campus (Integrated Biomedical Science Graduate Program)",32,71,27,77,8,52,55,103,33,64
+"47",46,"Ohio State U. Main Campus (Veterinary Biosciences)",17,46,13,51,10,62,15,36,24,46
+"48",47,"Ohio State U. Main Campus (Veterinary Preventative Medicine)",24,62,19,62,7,60,13,33,33,67
+"49",48,"Oklahoma State U. Main Campus (Biomedical Sciences)",116,119,114,119,39,94,50,99,117,120
+"50",49,"Oklahoma State U. Main Campus (Veterinary Biomedical Sciences)",39,77,57,105,4,30,13,25,68,97
+"51",50,"Pennsylvania State U. (Biology)",3,16,4,18,13,73,25,69,10,21
+"52",51,"Pennsylvania State U. (Pathobiology)",15,41,19,71,2,27,21,57,27,58
+"53",52,"Princeton U. (Molecular Biology)",1,12,2,12,23,77,48,99,3,9
+"54",53,"Rockefeller U. (The David Rockefeller Graduate Program)",3,16,1,13,22,75,57,100,1,8
+"55",54,"Seton Hall U. (Health Sciences)",119,120,120,120,116,120,3,16,118,120
+"56",55,"Stanford U. (Biological Sciences)",7,22,7,31,16,65,53,102,3,10
+"57",56,"State U. of New York at Albany (Biology)",88,111,89,114,84,113,42,91,72,94
+"58",57,"State U. of New York at Albany (Biomedical Science)",42,92,23,70,48,100,4,17,51,89
+"59",58,"Texas Tech U. (Biology)",51,95,53,103,14,67,48,93,48,79
+"60",59,"Tufts U. (Biology)",55,94,73,110,61,102,14,39,52,81
+"61",60,"Tulane U. (Biomedical Sciences)",19,46,12,54,13,54,18,44,17,26
+"62",61,"U. at Buffalo (SUNY) (Biological Sciences)",37,81,27,84,35,87,67,109,31,63
+"63",62,"U. of Alabama at Birmingham (Biology)",41,84,40,95,10,72,37,89,43,75
+"64",63,"U. of Arkansas Main Campus (Biological Sciences)",80,114,59,111,15,70,100,116,90,113
+"65",64,"U. of Arkansas Main Campus (Health Science)",107,117,111,119,8,60,97,118,106,116
+"66",65,"U. of California at San Diego (Biological Sciences)",2,12,3,16,44,94,72,107,1,4
+"67",66,"U. of California at San Diego (Biomedical Sciences)",1,13,1,10,35,89,64,107,1,5
+"68",67,"U. of California at San Francisco (Biomedical Sciences)",2,15,3,22,3,19,22,68,6,16
+"69",68,"U. of California at San Francisco (Oral and Craniofacial Sciences)",22,62,18,64,41,105,64,108,25,50
+"70",69,"U. of Central Florida (Biomolecular Sciences)",37,88,17,61,76,115,61,102,57,91
+"71",70,"U. of Cincinnati Main Campus (Biological Sciences)",99,116,91,114,70,115,65,103,93,112
+"72",71,"U. of Dayton (Biology)",83,113,67,106,9,85,25,88,83,112
+"73",72,"U. of Delaware (Biological Sciences)",20,52,20,67,20,76,5,17,36,69
+"74",73,"U. of Illinois at Chicago (Biological Sciences)",44,88,52,103,46,101,15,38,27,61
+"75",74,"U. of Iowa (Biological Sciences)",42,84,48,99,45,97,30,85,42,72
+"76",75,"U. of Kentucky (Biology)",37,73,67,105,6,42,62,104,30,60
+"77",76,"U. of Maryland at College Park (Biology)",33,72,23,67,50,101,49,92,28,53
+"78",77,"U. of Maryland-Baltimore County (Biological Sciences)",59,103,59,110,68,114,3,13,67,95
+"79",78,"U. of Massachusetts at Amherst (Animal Biotechnology and Biomedical Sciences)",21,51,24,73,27,77,3,13,32,69
+"80",79,"U. of Massachusetts at Worcester (Interdisciplinary Graduate Programs)",14,38,9,42,4,31,20,59,25,52
+"81",80,"U. of Miami (Biology)",68,109,57,109,53,105,35,93,59,89
+"82",81,"U. of Mississippi (Biological Sciences)",57,100,82,114,1,14,106,117,64,93
+"83",82,"U. of Missouri at Columbia (Biological Sciences)",38,80,36,91,8,53,44,92,33,61
+"84",83,"U. of New Mexico Main Campus (Biomedical Sciences)",16,47,16,60,20,76,5,17,24,51
+"85",84,"U. of North Carolina at Chapel Hill (Biology)",18,48,14,51,39,92,57,103,17,30
+"86",85,"U. of North Texas (Biology)",95,116,86,116,50,113,42,99,82,108
+"87",86,"U. of North Texas Health Science Center (Biomedical Sciences)",56,105,26,83,46,117,2,3,82,108
+"88",87,"U. of Notre Dame (Biological Sciences)",26,63,20,70,19,67,53,100,22,46
+"89",88,"U. of Oklahoma Norman Campus (Zoology)",42,87,57,108,5,59,98,115,51,80
+"90",89,"U. of Oregon (Biology)",17,46,11,44,19,75,96,115,18,30
+"91",90,"U. of Pennsylvania (Biology-School of Arts and Sciences)",20,56,18,64,26,79,3,15,29,67
+"92",91,"U. of Pittsburgh Main Campus (Biological Sciences)",55,96,47,97,41,97,29,83,41,68
+"93",92,"U. of Rhode Island (Biological Sciences)",82,111,99,116,38,98,34,82,72,98
+"94",93,"U. of Rochester (Biology)",27,63,24,76,40,103,26,73,28,58
+"95",94,"U. of South Carolina at Columbia (Biological Sciences)",28,68,20,63,10,54,40,91,30,62
+"96",95,"U. of South Carolina at Columbia (Biomedical Sciences)",54,103,50,102,1,6,13,29,85,114
+"97",96,"U. of South Florida (Biology)",56,97,67,110,6,34,69,107,43,72
+"98",97,"U. of South Florida (Medical Sciences)",28,66,27,77,11,50,30,85,27,52
+"99",98,"U. of Southern Mississippi (Biological Sciences)",63,110,64,114,8,42,105,117,77,108
+"100",99,"U. of Texas Health Science Center at Houston and U. of Texas M.D. Anderson Cancer Center (Interdisciplinary Biomedical Sciences)",7,24,5,26,33,82,14,31,11,23
+"101",100,"U. of Texas Southwestern Medical Center at Dallas (Integrative Biology)",4,21,3,23,18,81,25,69,12,24
+"102",101,"U. of Toledo (Molecular Basis of Disease)",31,72,35,99,14,67,28,70,50,84
+"103",102,"U. of Utah (Biology)",38,85,22,72,29,92,99,116,30,62
+"104",103,"U. of Vermont (Biology)",50,104,33,101,70,110,25,72,69,99
+"105",104,"U. of Virginia (Biology)",30,73,28,79,49,104,18,58,30,61
+"106",105,"U. of Washington (Botany)",25,58,29,80,30,92,18,51,28,54
+"107",106,"U. of Washington (Molecular and Cellular Biology)",7,23,7,35,35,88,47,102,6,17
+"108",107,"U. of Washington (Zoology)",25,58,31,82,37,91,35,85,22,35
+"109",108,"U. of Wisconsin at Madison (Comparative Biomedical Sciences)",14,41,17,67,22,81,92,111,25,53
+"110",109,"Utah State U. (Biology (SCI))",27,75,44,109,63,110,51,99,60,98
+"111",110,"Utah State U. (Range Science (NR))",94,118,59,111,43,114,113,118,114,120
+"112",111,"Utah State U. (Wildlife Biology (NR))",45,102,37,103,2,64,66,109,90,115
+"113",112,"Vanderbilt U. (Biological Sciences)",29,66,24,73,27,84,78,109,30,61
+"114",113,"Virginia Tech (Biological Sciences -)",41,82,51,102,15,64,109,118,51,81
+"115",114,"Wake Forest U. (Biology)",73,109,73,111,24,102,31,85,71,95
+"116",115,"Wayne State U. (Biological Sciences)",75,105,84,113,80,111,21,66,70,94
+"117",116,"Western Michigan U. (Biological Sciences)",105,118,83,113,114,120,23,70,88,112
+"118",117,"Wright State U. Main Campus (Biomedical Sciences)",67,104,58,105,26,78,32,86,71,99
+"119",118,"Yale U. (Investigative Medicine)",1,10,2,19,1,4,82,110,11,23
+"120",119,"Yale U. (Molecular, Cellular &amp; Developmental Biology)",2,15,4,23,50,98,32,89,7,17

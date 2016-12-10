@@ -1,0 +1,84 @@
+"","X","Institution..program","S.Rank.High","S.Rank.Low","Research.High","Research.Low","Students.High","Students.Low","Diversity.High","Diversity.Low","R.Rank.High","R.Rank.Low"
+"1",0,"Arizona State U. (Communication)",25,49,35,55,5,38,11,30,13,65
+"2",1,"Bowling Green State U. (Communication Studies)",48,71,50,75,19,63,7,19,14,82
+"3",2,"Cornell U. (Communication)",3,14,2,10,36,73,4,15,2,67
+"4",3,"Florida State U. (Communication)",70,81,58,81,46,71,24,50,20,79
+"5",4,"Georgia State U. (Communication)",53,69,64,78,3,18,17,45,18,73
+"6",5,"Howard U. (Communications)",31,52,77,82,31,63,1,1,2,83
+"7",6,"Indiana U. at Bloomington (Communication &amp; Culture)",45,67,52,66,24,72,45,68,7,70
+"8",7,"Indiana U. at Bloomington (Mass Communications)",21,43,34,52,6,52,27,54,4,65
+"9",8,"Indiana U. at Bloomington (Mass Communications (Tel))",6,19,9,13,13,74,25,52,2,57
+"10",9,"Kent State U. Main Campus (Communication Studies)",69,81,71,81,26,75,23,56,3,81
+"11",10,"Louisiana State U. at Baton Rouge (Communication Studies)",45,67,65,80,27,69,46,74,4,76
+"12",11,"Louisiana State U. at Baton Rouge (Mass Communication &amp; Public Affairs)",32,55,44,57,3,16,11,27,7,67
+"13",12,"Michigan State U. (Communication)",1,11,3,16,5,29,19,49,5,54
+"14",13,"Michigan State U. (Communication Arts &amp; Sciences Media and Information Studies)",6,19,14,25,27,62,22,49,7,69
+"15",14,"New Mexico State U. at Las Cruces (Rhetoric &amp; Professional Communication)",67,78,82,83,42,67,2,9,13,78
+"16",15,"New York U. (Culture and Communications)",69,81,55,70,77,82,56,75,12,73
+"17",16,"North Dakota State U. Main Campus (Communication)",73,81,58,80,12,34,69,81,7,78
+"18",17,"Northwestern U. (Communication Studies)",38,62,24,39,49,74,56,75,10,79
+"19",18,"Ohio State U. Main Campus (Communication)",3,10,1,7,22,61,44,67,8,79
+"20",19,"Ohio U. Main Campus (Communication Studies)",37,61,56,76,4,34,21,49,3,82
+"21",20,"Ohio U. Main Campus (Mass Communications)",38,59,53,65,36,69,28,53,4,68
+"22",21,"Pennsylvania State U. (Communication Arts and Sciences)",7,18,14,23,8,35,25,54,2,50
+"23",22,"Pennsylvania State U. (Mass Communications)",15,32,27,43,19,45,16,40,9,67
+"24",23,"Purdue U. Main Campus (Communication)",14,30,14,24,16,57,36,65,11,68
+"25",24,"Rensselaer Polytechnic Institute (Communication and Rhetoric)",35,61,50,70,14,54,36,61,1,72
+"26",25,"Rutgers U. at New Brunswick (Communication, Information, and Library Studies)",33,61,12,23,75,81,31,60,1,83
+"27",26,"Southern Illinois U. at Carbondale (Mass Communications and Media Arts)",59,72,69,81,23,57,52,75,7,82
+"28",27,"Southern Illinois U. at Carbondale (Speech Communication)",67,79,80,83,8,37,56,76,27,83
+"29",28,"Stanford U. (Communication)",1,3,1,5,24,71,60,78,1,61
+"30",29,"Syracuse U. Main Campus (Mass Communications)",14,34,19,35,3,30,22,57,3,69
+"31",30,"Temple U. (Mass Media &amp; Communication)",31,60,28,50,23,70,13,37,24,78
+"32",31,"Texas A&M U. (Communications, Telecomm. &amp; Media)",25,53,22,36,9,51,60,77,9,58
+"33",32,"U. at Buffalo (SUNY) (Communication)",41,68,15,42,54,73,73,82,8,81
+"34",33,"U. of Alabama (Communication)",30,59,22,46,13,49,54,74,23,80
+"35",34,"U. of Arizona (Communication)",6,22,4,11,43,70,63,81,9,73
+"36",35,"U. of California at San Diego (Communication)",31,57,22,36,64,79,5,16,6,75
+"37",36,"U. of California at Santa Barbara (Communication)",6,22,9,16,8,61,60,79,2,81
+"38",37,"U. of Colorado at Boulder (Communication)",47,68,19,36,45,73,39,63,32,75
+"39",38,"U. of Connecticut (Business Administration Ph.D. Marketing)",64,81,28,64,36,79,80,83,7,78
+"40",39,"U. of Connecticut (Comm Sci: Comm Processes &amp; Marketing Comm)",15,55,3,12,75,82,54,73,3,79
+"41",40,"U. of Florida (Mass Communication)",19,38,36,51,3,19,12,30,2,78
+"42",41,"U. of Georgia (Mass Communication)",9,24,33,47,1,13,15,40,9,56
+"43",42,"U. of Georgia (Speech Communication)",8,28,6,14,41,71,17,45,6,81
+"44",43,"U. of Hawaii-Manoa (Communication &amp; Information Science)",81,82,36,56,82,83,71,81,5,81
+"45",44,"U. of Illinois at Urbana-Champaign (Communications)",28,52,48,59,17,64,5,14,7,75
+"46",45,"U. of Illinois at Urbana-Champaign (Speech Communication)",4,10,6,10,10,58,20,48,2,68
+"47",46,"U. of Iowa (Communication Studies)",32,56,32,48,24,59,70,81,11,77
+"48",47,"U. of Iowa (Mass Communications)",23,45,34,53,6,34,2,9,12,80
+"49",48,"U. of Kansas (Communication Studies)",25,48,55,78,2,18,26,56,6,77
+"50",49,"U. of Kentucky (Communication)",14,36,14,29,31,65,33,59,7,56
+"51",50,"U. of Maryland at College Park (Communication)",47,69,55,75,9,65,14,42,7,74
+"52",51,"U. of Maryland at College Park (Journalism and Public Communication)",70,80,62,76,66,79,27,54,22,81
+"53",52,"U. of Massachusetts at Amherst (Communication)",39,63,51,72,46,75,9,23,12,67
+"54",53,"U. of Memphis (Communication)",69,81,60,78,56,77,56,74,4,81
+"55",54,"U. of Miami (Communication)",59,76,70,79,23,52,3,13,1,82
+"56",55,"U. of Michigan at Ann Arbor (Communication Studies)",7,22,8,13,45,79,2,11,2,58
+"57",56,"U. of Minnesota-Twin Cities (Communication Studies)",62,76,46,66,61,79,68,81,23,72
+"58",57,"U. of Minnesota-Twin Cities (Mass Communication)",40,63,41,53,18,57,52,73,12,77
+"59",58,"U. of Missouri at Columbia (Communication)",14,45,12,42,5,30,40,68,15,78
+"60",59,"U. of Missouri at Columbia (Journalism)",8,24,14,32,1,20,4,15,7,83
+"61",60,"U. of Nebraska at Lincoln (Communication Studies)",24,58,28,64,2,33,11,34,8,77
+"62",61,"U. of New Mexico Main Campus (Communication)",52,68,62,78,26,56,2,8,6,79
+"63",62,"U. of North Carolina at Chapel Hill (Journalism and Mass Communication)",9,23,32,48,1,11,25,55,13,71
+"64",63,"U. of North Carolina at Chapel Hill (Communication Studies)",10,26,34,50,4,30,53,73,3,82
+"65",64,"U. of Oklahoma Norman Campus (Communication)",25,50,16,36,18,53,51,71,24,71
+"66",65,"U. of Oregon (Communication and Society)",33,61,57,78,1,7,42,69,14,72
+"67",66,"U. of Pennsylvania (Communication(Annenberg))",1,5,1,5,14,53,15,38,2,44
+"68",67,"U. of Pittsburgh Main Campus (Communication)",44,66,36,55,26,71,75,82,9,68
+"69",68,"U. of South Carolina at Columbia (Mass Communications)",66,79,48,64,39,72,28,55,7,83
+"70",69,"U. of South Florida (Communication)",35,60,57,77,3,29,22,53,3,76
+"71",70,"U. of Southern California (Communication)",17,37,15,32,26,70,39,66,6,76
+"72",71,"U. of Southern Mississippi (Communication)",83,83,71,81,38,80,81,83,13,82
+"73",72,"U. of Tennessee (Communication and Information)",38,59,25,38,34,71,16,43,25,71
+"74",73,"U. of Texas at Austin (Advertising)",43,69,26,56,74,82,2,10,16,83
+"75",74,"U. of Texas at Austin (Communication Studies)",18,34,19,33,32,65,15,38,12,68
+"76",75,"U. of Texas at Austin (Journalism)",13,30,34,54,13,48,7,23,1,69
+"77",76,"U. of Texas at Austin (Radio-Television-Film)",12,30,16,27,13,60,14,38,5,70
+"78",77,"U. of Utah (Communication)",44,80,61,75,12,82,42,68,13,78
+"79",78,"U. of Washington (Communication)",26,48,21,34,35,70,37,63,15,66
+"80",79,"U. of Wisconsin at Madison (Communication Arts)",60,73,49,63,25,63,66,79,24,75
+"81",80,"U. of Wisconsin at Madison (Mass Communications)",1,6,1,6,51,72,35,58,2,77
+"82",81,"Washington State U. (Edward R. Murrow School of Communication)",19,41,19,37,14,39,15,44,7,65
+"83",82,"Wayne State U. (Communication)",71,81,62,76,73,81,16,39,13,82

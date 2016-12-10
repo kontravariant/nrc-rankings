@@ -1,0 +1,62 @@
+"","X","Institution..program","S.Rank.High","S.Rank.Low","Research.High","Research.Low","Students.High","Students.Low","Diversity.High","Diversity.Low","R.Rank.High","R.Rank.Low"
+"1",0,"Baylor U. (Statistical Science)",36,54,26,53,1,24,49,59,36,59
+"2",1,"Boston U. (Biostatistics)",11,28,4,16,31,57,6,29,47,61
+"3",2,"Carnegie Mellon U. (Statistics)",12,25,6,16,33,56,49,59,11,31
+"4",3,"Case Western Reserve U. (Statistics)",27,46,18,41,61,61,17,45,12,57
+"5",4,"Colorado State U. (Statistics)",31,48,17,38,33,55,45,57,19,43
+"6",5,"Columbia U. (Statistics)",9,22,10,26,23,48,6,32,9,30
+"7",6,"Cornell U. (Biometry)",4,18,3,18,12,49,1,3,8,49
+"8",7,"Cornell U. (Statistics)",30,48,18,39,3,21,57,61,7,31
+"9",8,"Duke U. (Statistics and Decision Sciences)",7,19,4,13,19,43,40,56,10,36
+"10",9,"Florida State U. (Statistics)",32,48,31,51,17,45,7,30,26,48
+"11",10,"George Washington U. (Statistics)",49,58,36,49,38,58,37,56,28,53
+"12",11,"Harvard U. (Statistics)",2,3,2,2,8,34,20,44,2,5
+"13",12,"Iowa State U. (Statistics)",7,17,15,36,6,31,20,44,2,9
+"14",13,"Johns Hopkins U. (Applied Mathematics &amp; Statistics)",24,42,11,24,59,60,35,53,4,34
+"15",14,"Kansas State U. (Statistics)",53,60,56,58,21,53,11,39,34,59
+"16",15,"Michigan State U. (Statistics)",24,40,37,50,14,40,2,11,21,49
+"17",16,"North Carolina State U. (Statistics)",16,27,15,29,27,53,7,33,3,13
+"18",17,"North Dakota State U. Main Campus (Statistics)",61,61,60,61,38,57,27,53,48,61
+"19",18,"Northwestern U. (Statistics)",18,34,24,43,1,11,8,34,18,48
+"20",19,"Ohio State U. Main Campus (Biostatistics)",20,40,17,43,12,43,2,12,19,54
+"21",20,"Ohio State U. Main Campus (Statistics)",23,42,14,36,41,57,15,41,10,37
+"22",21,"Oklahoma State U. Main Campus (Statistics)",36,56,17,49,8,51,13,41,56,61
+"23",22,"Oregon State U. (Statistics)",49,58,44,55,39,58,46,58,41,58
+"24",23,"Pennsylvania State U. (Statistics)",5,14,7,18,14,41,4,21,8,30
+"25",24,"Purdue U. Main Campus (Statistics)",10,24,13,32,23,49,11,37,8,28
+"26",25,"Rice U. (Statistics)",26,45,28,49,10,36,20,43,13,47
+"27",26,"Rutgers U. at New Brunswick (Statistics)",23,42,11,28,32,54,11,38,27,48
+"28",27,"Southern Methodist U. (Statistical Science)",43,54,38,55,12,39,14,39,24,53
+"29",28,"Stanford U. (Statistics)",1,1,1,1,3,17,48,59,1,1
+"30",29,"Temple U. (Statistics)",59,60,57,59,42,58,27,50,37,57
+"31",30,"Texas A&M U. (Statistics)",31,47,34,51,11,36,22,46,5,27
+"32",31,"U. of California at Berkeley (Statistics)",4,9,3,7,21,50,52,60,2,7
+"33",32,"U. of California at Davis (Statistics)",12,24,25,44,6,28,2,11,15,43
+"34",33,"U. of California at Los Angeles (Statistics)",9,22,9,22,16,44,44,58,11,30
+"35",34,"U. of California at Riverside (Applied Statistics)",51,59,49,57,36,53,9,31,45,58
+"36",35,"U. of California at Santa Barbara (Statistics &amp; Applied Probability)",48,58,46,55,46,58,46,58,31,57
+"37",36,"U. of Chicago (Statistics)",4,9,5,15,5,26,18,43,4,16
+"38",37,"U. of Connecticut (Statistics Ph.D.)",24,39,29,45,14,39,32,52,29,48
+"39",38,"U. of Florida (Statistics)",12,23,21,35,1,15,1,5,12,40
+"40",39,"U. of Georgia (Statistics)",21,36,21,41,17,48,10,39,15,43
+"41",40,"U. of Illinois at Urbana-Champaign (Statistics)",26,44,27,47,9,43,5,25,20,49
+"42",41,"U. of Iowa (Statistics)",39,50,39,51,31,56,6,35,13,33
+"43",42,"U. of Kentucky (Statistics)",18,34,21,43,19,48,17,44,23,57
+"44",43,"U. of Maryland at College Park (Mathematical Statistics)",48,57,39,52,59,60,8,32,38,57
+"45",44,"U. of Maryland-Baltimore County (Statistics)",48,58,43,55,48,58,32,52,36,55
+"46",45,"U. of Michigan at Ann Arbor (Statistics)",4,12,5,17,15,45,13,39,3,11
+"47",46,"U. of Minnesota-Twin Cities (Statistics)",32,47,17,38,44,57,24,47,14,39
+"48",47,"U. of Missouri at Columbia (Statistics)",28,45,46,56,1,8,6,25,28,53
+"49",48,"U. of New Mexico Main Campus (Statistics)",19,36,21,47,3,21,10,33,30,53
+"50",49,"U. of North Carolina at Chapel Hill (Statistics)",5,14,12,27,7,28,39,57,6,20
+"51",50,"U. of Pennsylvania (Biomed Grad Studies-Biostatistics and Epidemiology)",10,24,6,18,37,55,43,57,14,37
+"52",51,"U. of Pennsylvania (Statistics-Wharton)",12,24,17,36,5,24,60,61,7,18
+"53",52,"U. of Rochester (Statistics)",17,38,18,46,1,10,32,53,20,53
+"54",53,"U. of South Carolina at Columbia (Statistics)",47,56,51,56,5,31,14,42,30,52
+"55",54,"U. of Tennessee (Statistics and Management Science)",50,59,60,61,2,30,47,59,43,59
+"56",55,"U. of Virginia (Statistics)",27,46,22,40,32,57,3,16,38,59
+"57",56,"U. of Washington (Statistics)",2,4,3,6,2,17,24,46,10,33
+"58",57,"U. of Wisconsin at Madison (Statistics)",5,15,3,11,22,48,7,32,3,19
+"59",58,"Virginia Tech (Statistics)",31,46,33,50,14,41,14,41,35,58
+"60",59,"Western Michigan U. (Statistics)",49,58,58,59,7,39,3,17,51,61
+"61",60,"Yale U. (Statistics)",31,45,48,55,5,38,11,37,20,48

@@ -1,0 +1,128 @@
+"","X","Institution..program","S.Rank.High","S.Rank.Low","Research.High","Research.Low","Students.High","Students.Low","Diversity.High","Diversity.Low","R.Rank.High","R.Rank.Low"
+"1",0,"Arizona State U. (Mathematics)",22,54,24,59,35,89,24,51,40,70
+"2",1,"Auburn U. (Mathematics)",118,125,115,124,42,93,15,44,120,126
+"3",2,"Baylor U. (Mathematics)",56,82,61,78,1,19,119,123,68,116
+"4",3,"Binghamton U. (SUNY) (Mathematical Science)",64,89,85,109,3,27,16,41,74,104
+"5",4,"Boston U. (Mathematics)",13,34,15,43,14,66,14,38,24,53
+"6",5,"Bowling Green State U. (Mathematics)",61,90,85,111,1,31,7,23,87,114
+"7",6,"Brandeis U. (Mathematics)",21,57,16,54,19,75,29,72,16,42
+"8",7,"Brown U. (Mathematics)",9,27,12,44,7,39,7,24,10,37
+"9",8,"California Institute of Technology (Mathematics)",5,20,4,22,23,91,18,54,9,32
+"10",9,"Carnegie Mellon U. (Mathematical Sciences)",19,48,26,59,5,41,61,95,27,54
+"11",10,"City U. of New York Graduate Center (Mathematics)",100,120,71,96,121,126,101,115,57,95
+"12",11,"Claremont Graduate U. (Mathematics)",88,111,79,108,126,127,106,117,80,116
+"13",12,"Clemson U. (Mathematical Sciences)",84,105,76,107,47,98,60,89,58,86
+"14",13,"Colorado State U. (Mathematics)",111,125,100,121,86,121,40,76,85,120
+"15",14,"Columbia U. (Mathematics)",5,17,4,22,32,91,27,61,9,25
+"16",15,"Cornell U. (Mathematics)",15,42,21,55,7,43,87,109,12,37
+"17",16,"Dartmouth College (Mathematics)",65,90,80,107,7,51,90,108,78,108
+"18",17,"Duke U. (Mathematics)",13,38,19,57,6,45,108,118,14,47
+"19",18,"Emory U. (Mathematics)",53,84,58,83,6,66,19,52,71,104
+"20",19,"Florida State U. (Mathematics)",50,88,30,72,86,117,23,57,50,82
+"21",20,"George Washington U. (Mathematics)",96,116,99,119,39,107,14,38,99,120
+"22",21,"Georgia Institute of Technology (Math)",27,60,18,52,62,105,51,91,24,52
+"23",22,"Harvard U. (Mathematics)",1,4,3,9,1,14,26,67,2,5
+"24",23,"Howard U. (Mathematics)",66,94,99,122,74,119,4,10,112,127
+"25",24,"Indiana U. at Bloomington (Mathematics)",12,32,16,45,22,84,42,80,14,39
+"26",25,"Indiana U.-Purdue U. Indianapolis (Mathematics)",90,113,81,108,38,108,113,120,72,110
+"27",26,"Iowa State U. (Mathematics)",69,96,81,114,3,43,35,70,70,99
+"28",27,"Johns Hopkins U. (Mathematics)",56,83,53,79,39,97,66,96,39,63
+"29",28,"Kansas State U. (Mathematics)",85,108,102,121,3,71,23,67,65,96
+"30",29,"Kent State U. Main Campus (Pure Mathematics)",62,89,70,100,16,63,46,82,57,90
+"31",30,"Lehigh U. (Mathematics)",105,122,122,125,24,79,80,105,101,125
+"32",31,"Louisiana State U. at Baton Rouge (Mathematics)",55,87,62,95,26,84,25,59,51,79
+"33",32,"Massachusetts Institute of Technology (Mathematics)",4,11,4,19,13,57,39,78,5,11
+"34",33,"Michigan State U. (Mathematics)",24,52,20,51,87,117,8,28,11,43
+"35",34,"Michigan Technological U. (Mathematical Sciences)",58,88,68,98,72,120,1,8,66,105
+"36",35,"Mississippi State U. (Mathematical Sciences)",110,126,82,106,120,127,1,7,87,126
+"37",36,"Montana State U. at Bozeman (Mathematics)",101,120,97,116,33,101,107,118,106,125
+"38",37,"New Mexico State U. at Las Cruces (Mathematical Sciences)",61,90,73,102,80,118,3,10,73,115
+"39",38,"New York U. (Mathematics)",1,4,1,2,15,89,50,93,2,6
+"40",39,"North Carolina State U. (Mathematics)",41,73,34,73,20,77,95,112,50,75
+"41",40,"Northeastern U. (Mathematics)",58,87,54,81,19,80,124,127,44,69
+"42",41,"Northern Illinois U. (Mathematical Sciences)",118,126,114,123,42,102,57,87,115,126
+"43",42,"Northwestern U. (Mathematics)",39,74,34,70,12,66,55,89,29,57
+"44",43,"Ohio State U. Main Campus (Mathematics)",52,82,42,73,90,119,32,75,18,46
+"45",44,"Ohio U. Main Campus (Mathematics)",105,121,116,124,63,110,84,109,108,125
+"46",45,"Oregon State U. (Mathematics)",99,120,78,105,120,126,88,106,81,111
+"47",46,"Pennsylvania State U. (Mathematics)",5,16,5,26,32,86,10,33,5,16
+"48",47,"Princeton U. (Mathematics)",1,3,1,3,3,25,39,78,1,4
+"49",48,"Purdue U. Main Campus (Mathematics)",26,59,22,55,105,122,8,25,12,42
+"50",49,"Rensselaer Polytechnic Institute (Mathematics)",20,57,21,57,26,103,14,39,26,67
+"51",50,"Rice U. (Mathematics)",55,84,55,84,42,92,92,111,32,57
+"52",51,"Rutgers U. at New Brunswick (Mathematics)",14,41,10,30,36,96,55,89,12,36
+"53",52,"Southern Illinois U. at Carbondale (Mathematics)",105,122,115,124,62,110,5,23,109,122
+"54",53,"Stanford U. (Mathematics)",3,9,3,12,5,36,36,79,4,9
+"55",54,"State U. of New York at Albany (Mathematics)",100,118,106,120,67,114,117,122,101,124
+"56",55,"State U. of New York at Stony Brook (Mathematics)",24,63,19,59,52,102,41,86,13,42
+"57",56,"Stevens Institute of Technology (Mathematics)",89,113,110,124,14,90,33,68,113,125
+"58",57,"Syracuse U. Main Campus (Mathematics)",34,78,33,79,9,61,55,89,50,81
+"59",58,"Temple U. (Mathematics)",67,95,77,107,3,42,16,45,83,114
+"60",59,"Texas A&M U. (Mathematics)",19,55,12,45,79,111,25,65,12,41
+"61",60,"Texas Tech U. (Mathematics)",98,118,102,121,23,79,33,64,88,114
+"62",61,"Tufts U. (Mathematics)",82,104,88,109,47,114,13,34,72,113
+"63",62,"Tulane U. (Mathematics)",99,122,82,113,97,120,37,71,101,123
+"64",63,"U. at Buffalo (SUNY) (Mathematics)",107,120,102,114,75,114,10,32,99,119
+"65",64,"U. of Alabama (Mathematics)",82,102,78,100,29,91,8,23,84,115
+"66",65,"U. of Arizona (Mathematics)",21,53,16,47,36,97,76,100,20,48
+"67",66,"U. of Arkansas Main Campus (Mathematics)",105,125,107,123,31,117,85,107,82,116
+"68",67,"U. of California at Berkeley (Mathematics)",3,8,3,10,35,89,110,120,1,3
+"69",68,"U. of California at Davis (Mathematics)",9,33,5,24,24,89,99,114,16,47
+"70",69,"U. of California at Irvine (Mathematics)",11,34,4,16,105,120,60,90,20,52
+"71",70,"U. of California at Los Angeles (Mathematics)",13,31,22,49,56,100,104,117,8,28
+"72",71,"U. of California at Riverside (Mathematics)",83,108,73,109,34,97,89,106,73,104
+"73",72,"U. of California at San Diego (Mathematics)",13,34,13,36,20,77,119,123,10,28
+"74",73,"U. of California at Santa Barbara (Mathematics)",24,57,28,65,14,60,104,116,25,54
+"75",74,"U. of California at Santa Cruz (Mathematics)",77,107,32,69,92,118,89,108,67,101
+"76",75,"U. of Chicago (Mathematics)",27,57,41,71,25,79,93,113,12,39
+"77",76,"U. of Cincinnati Main Campus (Mathematical Sciences)",92,112,91,112,102,125,8,26,71,105
+"78",77,"U. of Colorado at Boulder (Mathematics)",112,125,94,116,113,123,118,122,76,104
+"79",78,"U. of Connecticut (Mathematics Ph.D.)",75,98,73,101,27,89,71,98,71,98
+"80",79,"U. of Delaware (Mathematics)",11,40,7,33,52,102,16,44,20,54
+"81",80,"U. of Florida (Mathematics)",50,82,32,66,46,106,25,62,35,63
+"82",81,"U. of Georgia (Mathematics)",71,96,73,99,35,97,37,71,53,77
+"83",82,"U. of Hawaii-Manoa (Mathematics)",123,127,117,125,86,117,126,127,87,114
+"84",83,"U. of Houston main campus (Mathematics)",33,68,41,72,1,32,2,12,61,98
+"85",84,"U. of Illinois at Chicago (Mathematics)",31,68,31,71,65,106,11,32,16,51
+"86",85,"U. of Illinois at Urbana-Champaign (Mathematics)",17,47,12,36,105,121,53,88,12,36
+"87",86,"U. of Iowa (Mathematics)",39,65,64,85,4,44,31,61,58,87
+"88",87,"U. of Kansas (Mathematics)",34,76,30,72,27,93,16,47,49,80
+"89",88,"U. of Kentucky (Mathematics)",28,57,37,67,3,30,99,116,37,69
+"90",89,"U. of Maryland at College Park (Mathematics)",25,50,13,30,101,120,105,118,13,38
+"91",90,"U. of Massachusetts at Amherst (Mathematics)",15,47,8,32,32,96,85,106,25,56
+"92",91,"U. of Memphis (Mathematics)",68,94,75,104,47,106,8,20,106,123
+"93",92,"U. of Miami (Mathematics)",52,87,33,71,64,114,65,91,63,98
+"94",93,"U. of Michigan at Ann Arbor (Mathematics)",7,20,6,23,27,83,54,88,4,12
+"95",94,"U. of Minnesota-Twin Cities (Mathematics)",30,58,25,54,56,104,18,55,19,46
+"96",95,"U. of Mississippi (Mathematics)",126,127,126,127,3,63,20,46,126,127
+"97",96,"U. of Missouri at Columbia (Mathematics)",37,62,34,62,13,70,19,51,48,71
+"98",97,"U. of Missouri at Rolla (Mathematics)",93,115,79,107,112,123,89,110,77,114
+"99",98,"U. of Nebraska at Lincoln (Mathematics)",45,72,63,91,14,69,72,99,66,100
+"100",99,"U. of New Hampshire (Mathematics)",78,108,64,89,116,126,1,5,79,120
+"101",100,"U. of North Carolina at Chapel Hill (Mathematics)",41,76,41,77,30,97,24,60,48,77
+"102",101,"U. of North Texas (Mathematics)",88,115,68,98,75,123,44,80,85,115
+"103",102,"U. of Notre Dame (Mathematics)",10,27,15,40,2,32,56,88,19,49
+"104",103,"U. of Oklahoma Norman Campus (Mathematics)",85,105,88,115,71,112,23,57,66,94
+"105",104,"U. of Oregon (Mathematics)",30,61,28,61,38,101,123,125,36,68
+"106",105,"U. of Pennsylvania (Mathematics)",25,54,33,65,11,56,70,100,17,42
+"107",106,"U. of Pittsburgh Main Campus (Mathematics)",34,63,35,64,25,94,34,71,28,55
+"108",107,"U. of Rhode Island (Mathematics)",91,117,108,125,2,35,73,100,112,126
+"109",108,"U. of Rochester (Mathematics)",18,64,13,59,14,106,32,70,37,78
+"110",109,"U. of South Carolina at Columbia (Mathematics)",77,103,58,84,113,125,28,67,58,87
+"111",110,"U. of South Florida (Mathematics)",104,121,97,115,78,114,22,59,93,116
+"112",111,"U. of Southern California (Mathematics)",49,86,32,71,34,98,124,127,45,74
+"113",112,"U. of Tennessee (Mathematics)",36,62,43,69,25,81,72,97,39,65
+"114",113,"U. of Texas at Austin (Mathematics)",12,32,9,29,40,94,120,124,9,30
+"115",114,"U. of Toledo (Mathematics)",118,126,125,127,26,104,3,15,98,120
+"116",115,"U. of Utah (Mathematics)",38,71,25,62,31,100,59,89,42,67
+"117",116,"U. of Vermont (Mathematical Sciences)",59,101,47,76,31,97,76,105,59,112
+"118",117,"U. of Virginia (Mathematics)",24,56,39,74,2,33,64,91,50,74
+"119",118,"U. of Washington (Mathematics)",29,59,26,60,38,90,100,115,26,50
+"120",119,"U. of Wisconsin at Madison (Mathematics)",6,16,6,22,28,84,71,100,6,15
+"121",120,"U. of Wisconsin at Milwaukee (Mathematics)",94,119,73,110,85,113,46,85,76,109
+"122",121,"Vanderbilt U. (Mathematics)",11,31,21,55,1,24,42,83,17,48
+"123",122,"Virginia Tech (Mathematics)",52,82,63,90,11,60,31,65,61,93
+"124",123,"Washington U. in St. Louis (Mathematics)",60,90,62,97,26,77,84,106,55,78
+"125",124,"Wayne State U. (Mathematics)",62,91,71,97,9,75,1,8,79,115
+"126",125,"Western Michigan U. (Mathematics)",72,97,101,117,1,51,70,93,75,110
+"127",126,"Yale U. (Mathematics)",5,13,4,13,9,61,29,75,4,11
